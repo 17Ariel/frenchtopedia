@@ -1,0 +1,52 @@
+body{
+   background-image:linear-gradient(rgba(0,10,0,0.5),rgba(0,0,10,0.5)),url(all-image/background.jpg);
+    font-family: sans-serif;
+}
+.mynav{
+    width:auto;
+    height:90px;
+    padding-bottom: 10px;
+    margin-bottom: 20px; 
+    text-transform: uppercase;
+}
+.mynav img{
+    width:300px;
+    height:70px; 
+}
+.carousel-item{
+    margin:20px 10px 20px 10px;
+    box-shadow: 0 0 10px 1px rgba(37,73,224,0.25);
+    width:1000px;
+    position: center;
+    background: #fff;
+    position: center;
+}
+
+
+.carousel-control-prev-icon{
+    background-color: teal;
+    height:35px;
+    width:40px;
+    position:absolute;
+}
+.carousel-control-next-icon{
+    background-color: teal;
+     height:35px;
+    width:40px;
+    position:absolute;
+}
+.carousel-image{
+    width:1200px;
+    height:500px;
+}
+.carousel-text{
+    background-color: #fff;
+}
+
+
+
+
+
+
+
+

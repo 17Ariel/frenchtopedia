@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image:linear-gradient(rgba(10,30,30,0.5),rgba(10,30,30,0.5)),url(all-image/background.jpg);
+    background-position: center;
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
+.mynav{
+    width:auto;
+    height:90px;
+    padding-bottom: 10px;
+    margin-bottom: 50px: 
+}
+.mynav img{
+    width:300px;
+    height:70px; 
+    
+}
+#home h1{
+    color: white;
+    font-size: 65px;
+   padding-top:150px;
+}
+#home p{
+    color: white;
+    font-size: 25px;
+   padding-top:0px;
+}
+#home a{
+    margin-top: 0px;
+    margin-bottom:20px;
+  
+}
+#home a:hover{
+    transform: scale(1.1);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

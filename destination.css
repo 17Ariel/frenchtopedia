@@ -1,0 +1,91 @@
+body{
+    font-family: sans-serif;
+  
+
+}
+.mynav{
+    width:auto;
+    height:90px;
+    padding-bottom: 10px;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+}
+.mynav img{
+    width:300px;
+    height:70px; 
+}
+.desti{
+    padding-top: 30px;
+    background: white;
+
+
+}
+h1{
+    margin-top:5px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.desti-img img{
+    width:100%;
+
+}
+.desti-details{
+    padding: 20px;
+   
+}
+.desti-details h4{
+    font-weight: 600;
+}
+.desti-box{
+    box-shadow: 0 0 10px 1px rgba(37,73,214,0.18);
+    margin-bottom: 30px;
+    overflow: hidden;
+}
+input.toggle{
+    position: absolute;
+    width:50px;
+    height: 50px;
+    bottom: 20px;
+    right:20px;
+    outline: none;
+    z-index: 10;
+}
+input{
+    opacity: 0;
+}
+.toggle{
+    pointer-events: none;
+    border-radius: 50%;
+    background: white;
+    transition: 0.5s;
+    text-align: center;
+    line-height: 50px;
+    font-size: 36px;
+    box-shadow: 0 0 0 0px #fff;
+}
+input:checked~.toggle{
+    box-shadow: 0 0 0 0px #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

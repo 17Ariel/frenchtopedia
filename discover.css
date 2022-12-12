@@ -1,0 +1,49 @@
+body{
+    font-family: sans-serif;
+}
+.mynav{
+    width:auto;
+    height:90px;
+    padding-bottom: 10px;
+    margin-bottom: 50px; 
+    text-transform: uppercase;
+}
+.mynav img{
+    width:300px;
+    height:70px; 
+}
+#disco{
+    background: white;
+    margin-top:50px;
+    margin-left:20px;
+    margin-right:20px;
+}
+#disco p{
+    font-size: 18px;
+   
+}
+footer{
+    margin-top:200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
